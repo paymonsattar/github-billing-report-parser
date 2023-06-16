@@ -3,4 +3,4 @@ A simple script to parse a Github billing report as a CSV file and output a list
 
 You can get your billing CSV from Github - Settings > Switch to Organization > Billing > Get Report
 
-Simple rename the report as 'input.csv' and run the script. You will get an ordered list of actions with their corresponding quantities in the 'output.csv' file.
+Simply rename the report as 'input.csv' and run the script. You will get an ordered list of actions with their corresponding quantities in the 'output.csv' file.
