@@ -1,0 +1,15 @@
+{
+  "name": "github-billing-report-parser",
+  "version": "1.0.0",
+  "description": "A simple script to parse a Github billing report as a CSV file and output a list of unique actions with their corresponding quantities, ordered from maximum to minimum.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Paymon Sattarzadeh",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
